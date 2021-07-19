@@ -6,5 +6,8 @@
 ```Statistics```<br>
 [Dot Plots - Shapes, Centers, Spread Video](https://www.youtube.com/watch?v=oJOzSjj7VJY)<br>
 [One-way ANOVA](https://www.youtube.com/watch?v=4O2tlnVLj_k)<br>
+[เรื่องความน่าจะเป็น](https://www.youtube.com/watch?v=2nTMXsLL7aM)<br>
+[]()<br>
+[]()<br>
 []()<br>
 []()<br>
